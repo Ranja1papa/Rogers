@@ -161,4 +161,3 @@ function updateButtonText(text) {
     langBtn.innerText = text;
 }
 
-
